@@ -1,0 +1,14 @@
+
+
+https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss
+
+
+IN TERMINAL COMMAND THIS LINE...
+
+npm install -D tailwindcss
+npx tailwindcss init
+
+
+
+ADD THIS LINK 
+https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss
