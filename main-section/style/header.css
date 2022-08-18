@@ -1,5 +1,3 @@
-/* google font added link  */
-
 
 *{
     margin: 0;
@@ -38,70 +36,4 @@ body{
     justify-content: center;
     align-items: center;
 
-}
-
-.search-input{
-    height: 40px;
-    width: 90vh;
-    padding-left: 20px;
-    border: 2px solid #FF6A00;
-    border-bottom-left-radius: 20px;
-    border-top-left-radius: 20px;
-}
-
-.fa-camera{
-    color: #666666;
-    font-size: 18px;
-    margin-left: -30px;
-    margin-right: 8px;
-}
-
-.search-btn{
-    height: 40px;
-    background-color: #FF6A00;
-    border: none;
-    color: white;
-    padding: 10px;
-    padding-left: 40px;
-    border-bottom-right-radius: 20px;
-    border-top-right-radius: 20px;
-}
-.search-btn i{
-    margin-right: 10px;
-}
-/* --------------------------------------- */
-.sub-container{
-    font-size: 14px;
-    color: #666666;
-    font-weight: 300;
-    font-size: 16px;
-    text-align: center;
-    padding: 20px;
-}
-
-.sub-container i{
-    color: #FF6A00;
-    font-size: 20px;
-}
-
-.login-btn{
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-}
-
-.login-btn i{
-    font-size: 30px;
-    padding: 5px;
-}
-hr{
-    border-top: 1px solid rgba(128, 128, 128, 0.048);
-}
-
-.main-container{
-    background-color: #F2F3F7;
-}
-
-.navigacion-container{
-    
 }
