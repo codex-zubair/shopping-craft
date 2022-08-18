@@ -1,3 +1,25 @@
+## Tailwind CSS
+
+
+
+https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss
+
+
+IN TERMINAL COMMAND THIS LINE...
+
+npm install -D tailwindcss
+npx tailwindcss init
+
+
+
+ADD THIS LINK UNDER META TAG
+<!-- <script src="https://cdn.tailwindcss.com"></script> -->
+
+
+
+
+
+
 ## Git-hub project Link :  https://github.com/codingwithrock/shopping-craft.git
 
 ### steps-1
