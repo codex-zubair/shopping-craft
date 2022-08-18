@@ -13,7 +13,7 @@ npx tailwindcss init
 
 
 ADD THIS LINK UNDER META TAG
-<!-- <script src="https://cdn.tailwindcss.com"></script> -->
+<script src="https://cdn.tailwindcss.com"></script>
 
 
 
